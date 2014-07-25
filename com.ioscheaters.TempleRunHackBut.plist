@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cell</key>
+	<string>PSLinkCell</string>
+	<key>icon</string>
+	<string>templerunicon.png</string>
+	<key>label</key>
+	<string>TempleRun hack with Buttons</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>TempleRun Hack by omegafrigh</string>
+		</dict>
+		
+		
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.omegafrigh.templerunhackbut</string>
+			<key>key</key>
+			<string>kAngels</string>
+			<key>label</key>
+			<string>Unlimited Wings</string>
+		</dict>
+		
+		
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.omegafrigh.templerunhackbut</string>
+			<key>key</key>
+			<string>kInvinsibility</string>
+			<key>label</key>
+			<string>Unlimited Invinsibility</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.omegafrigh.templerunhackbut</string>
+			<key>key</key>
+			<string>kCoinCount</string>
+			<key>label</key>
+			<string>Unlimitied Coin Count</string>
+		</dict>
+		
+		
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.omegafrigh.templerunhackbut</string>
+			<key>key</key>
+			<string>kScoreMultiplier</string>
+			<key>label</key>
+			<string>Unlimited ScoreMultiplier</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.omegafrigh.templerunhackbut</string>
+			<key>key</key>
+			<string>kRunVelocity</string>
+			<key>label</key>
+			<string>Can't die</string>
+		</dict>
+		
+		
+		<dict>
+		<string>PSFooterText</string>
+		<key>label</key>
+		<string>Credits: omegafrigh</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>TempleRun Hack by omegafrigh</string>
+	
+	
+</dict>
+</plist>
